@@ -1,0 +1,21 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Aug 20 21:44:15 2021
+
+@author: 纪
+"""
+
+# for i in range(len(sst)-1):
+
+#     if sst[i]<sst[21]:
+#         I.append(sst[i+1]-sst[i]+olr[21])
+#     elif sst[36]>sst[i]>=sst[21]:
+#         print(sst[i])
+#         I1.append(np.trapz([a*sst[i]+b,a*sst[i+1]+b])+olr[21])
+#         pass
+#     elif sst[40]>sst[i]>=sst[35]:
+#         I2.append((np.trapz([a2*sst[i]+b2,a2*sst[i+1]+b2]))+olr[21])
+#         pass
+#     else  :
+
+#         I3.append(sst[i+1]-sst[i]+olr[21])
